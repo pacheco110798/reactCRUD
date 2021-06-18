@@ -23,7 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+td th{
+    background-color: #282c34;
+    display: flex;
+    border: dotted blue;
+    align-items: center;
+}
 .App-link {
   color: #61dafb;
 }
